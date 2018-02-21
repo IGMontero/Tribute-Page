@@ -1,0 +1,38 @@
+body{
+  margin-left:80px;
+  margin-right:80px;
+}
+.grey-box{
+  background-color: #e0e0d1;
+  border-radius: 5px;
+  padding:40px;
+}
+h1{
+  text-align:center;
+}
+#maindiv{
+  margin:35px;
+  left-padding: 1px;
+  right-padding:200px;
+}
+#mainimg{
+  display:block;
+  margin:auto;
+  width:100%;
+}
+#mainimgcontainer{
+  border-radius:5px;
+  background-color: #f5f5f0;
+  padding:10px;
+} 
+
+.year{
+  font-weight:900;
+}
+
+.quote{
+  color: #999999;
+  font-size: 14px;
+  display: block;
+  margin-top: 5px;
+}
